@@ -1,4 +1,4 @@
-## This function is used to cache and compute the inverse of a matrix
+## This R document is used to cache and compute the inverse of a matrix
 
 ##  makeCacheMatrix is used to create a matrix object which could cache its inverse
 
